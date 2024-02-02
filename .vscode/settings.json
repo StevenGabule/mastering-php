@@ -1,0 +1,9 @@
+{
+	"intelephense.environment.includePaths": [
+		"pdo_sqlsrv",
+		"sqlsrv"
+	],
+	"cSpell.words": [
+		"ERRMODE"
+	]
+}
